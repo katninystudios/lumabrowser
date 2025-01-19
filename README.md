@@ -4,7 +4,7 @@
 </h1>
 
 > [!IMPORTANT]
-> Luma is being rewritten with C++ and a new browser engine (hint: not Chromium, Gecko or WebKit) and is only suitable for developers.
+> Luma is being rewritten and is only suitable for developers.
 
 Luma - a fast, modern browser created by people you can trust.
 Luma is a fast, safe, trustworthy, open source with customizability, freedom and privacy as the #1 priority. 
